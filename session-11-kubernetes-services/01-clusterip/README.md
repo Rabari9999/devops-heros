@@ -247,3 +247,7 @@ kubectl delete -f 01-clusterip/client-pod.yaml
 kubectl delete -f 01-clusterip/service.yaml
 kubectl delete -f 01-clusterip/app-deployment.yaml
 ```
+
+## 10. Screenshots
+![Launching cluster](screenshot-1.png)
+![Accessing deployment using curl-client](screenshot-2.png)
